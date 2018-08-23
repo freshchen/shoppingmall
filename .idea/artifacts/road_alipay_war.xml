@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="road-alipay:war">
+    <output-path>$PROJECT_DIR$/Alipay/target</output-path>
+    <root id="archive" name="road-alipay-1.0.war">
+      <element id="artifact" artifact-name="road-alipay:war exploded" />
+    </root>
+  </artifact>
+</component>
