@@ -1,4 +1,4 @@
-# shoppingmall
+# hoppingmall
 商城项目学习
 
 观看相关视频完成了简单的商城系统
